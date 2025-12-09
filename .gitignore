@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+#Pasta do Pyisntaller
+build/
+dist/
+SunsetPortaria_app/
+
+# Executaveis
+*.exe
+
+# Arquivos .spec
+*.spec
+
+# Banco de dados local
+*.db
+
+# Ambiente virtual
+venv/
+.env/
+
+# Logs
+*.log
