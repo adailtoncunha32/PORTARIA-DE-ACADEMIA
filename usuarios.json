@@ -1,0 +1,12 @@
+[
+  {
+    "usuario": "admin",
+    "senha": "1234",
+    "perfil": "admin"
+  },
+  {
+    "usuario": "recepcao",
+    "senha": "1234",
+    "perfil": "admin"
+  }
+]
